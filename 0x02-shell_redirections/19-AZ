@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Input text with A and c characters" | tr 'Ac' 'Ze'
